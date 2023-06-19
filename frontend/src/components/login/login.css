@@ -1,0 +1,97 @@
+.clippy {
+  clip-path: polygon(0 0, 75% 0, 64% 100%, 0% 100%);
+  background: linear-gradient(#feca3a, white);
+  width: 72%;
+  margin-right: -10%;
+}
+
+.main {
+  display: flex;
+  overflow: hidden;
+  height: 100%;
+  font-family: sans-serif;
+}
+
+.top-btn button.p-button.p-component.p-button-rounded {
+  background: #434343;
+  color: #f6991f;
+  font-weight: bold;
+  border: none;
+  width: 52%;
+  font-size: 20px;
+  text-align: center;
+}
+
+.top-btn {
+  position: relative;
+  top: 4%;
+  left: 59%;
+  display: inline;
+  text-align: center;
+}
+
+.form-div {
+  padding: 25px 30px;
+  border: 1px solid #feca3a;
+  text-align: center;
+  margin-top: 37%;
+  width: 112%;
+  border-width: 1px 4px 4px 1px;
+}
+
+h3.heading_sign {
+  color: #f6991f;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.user .input.p-inputtext.p-component {
+  border: antiquewhite;
+  padding: 10px;
+}
+
+input.p-inputtext.p-component {
+  border: none;
+  border-bottom: 1px solid gray;
+  border-radius: unset;
+}
+
+.forget {
+  color: #f6991f;
+  text-decoration: none;
+  float: right;
+  margin: 10px 10px 10px 0;
+}
+
+button.p-button.p-component.p-button-rounded {
+  background: #434343;
+  color: #f6991f;
+  font-weight: bold;
+  border: none;
+  width: 90%;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+}
+
+a.create {
+  color: #f6991f;
+  text-decoration: none;
+}
+
+p.dont-have {
+  font-size: 12px;
+}
+
+.signin-form {
+  margin-bottom: 50px;
+}
+
+h2.shine {
+  position: absolute;
+  top: 39%;
+  left: 17%;
+  color: #434343;
+  font-size: 45px;
+  font-weight: bold;
+}
